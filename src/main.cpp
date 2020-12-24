@@ -1,6 +1,5 @@
 #include <iostream>
 #include <chrono>
-#include "opt_ref.h"
 
 #include <entt/entt.hpp>
 #include <functional>
